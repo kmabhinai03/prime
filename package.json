@@ -1,0 +1,15 @@
+{
+  "name": "prime-movie-api",
+  "version": "1.0.0",
+  "description": "Small API to return sections and movie details from local JSON files",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
