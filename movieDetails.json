@@ -1,0 +1,718 @@
+{
+  "Jeepers Creepers": {
+    "title": "Jeepers Creepers",
+    "year": "2001",
+    "rated": "N/A",
+    "released": "Sun, 07/01/2001",
+    "runtime": "N/A",
+    "genre": [],
+    "director": "N/A",
+    "writer": "N/A",
+    "actors": [
+      "Eileen Brennan",
+      "Jonathan Breck",
+      "Patricia Belcher",
+      "Brandon Smith",
+      "William Haze",
+      "Justin Long"
+    ],
+    "plot": "A brother and sister driving home through an isolated countryside from college encounter a flesh-eating creature in the midst of its ritualistic eating spree.",
+    "language": [
+      "en"
+    ],
+    "country": "",
+    "awards": "N/A",
+    "poster": "https://image.tmdb.org/t/p/original/g410Y1U1ELbmJG14Zru3UAimm1G.jpg",
+    "metascore": "N/A",
+    "imdbRating": "6.5",
+    "imdbVotes": "2729",
+    "imdbID": "",
+    "type": "movie",
+    "images": [
+      "https://image.tmdb.org/t/p/original/g410Y1U1ELbmJG14Zru3UAimm1G.jpg",
+      "https://image.tmdb.org/t/p/original/imYymwc08RsEx3ZmWepkGzaE2Rw.jpg"
+    ],
+    "isSubscriptionOrRent": "Prime",
+    "tags": []
+  },
+  "Runaway Bride": {
+    "title": "Runaway Bride",
+    "year": "1999",
+    "rated": "N/A",
+    "released": "Fri, 07/30/1999",
+    "runtime": "N/A",
+    "genre": [],
+    "director": "N/A",
+    "writer": "N/A",
+    "actors": [
+      "Sandra Taylor",
+      "Tom Mason",
+      "Reg Rogers",
+      "Garry Marshall",
+      "Rita Wilson",
+      "Yul Vazquez"
+    ],
+    "plot": "Ike Graham, New York columnist, writes his text always at the last minute. This time, a drunken man in his favourite bar tells Ike about Maggie Carpenter, a woman who always flees from her grooms in the last possible moment. Ike, who does not have the best opinion about females anyway, writes an offensive column without researching the subject thoroughly.",
+    "language": [
+      "en"
+    ],
+    "country": "",
+    "awards": "N/A",
+    "poster": "https://image.tmdb.org/t/p/original/3JpHNd6V8hvR1JFGGSAJsZDYHoR.jpg",
+    "metascore": "N/A",
+    "imdbRating": "6.1",
+    "imdbVotes": "1817",
+    "imdbID": "",
+    "type": "movie",
+    "images": [
+      "https://image.tmdb.org/t/p/original/3JpHNd6V8hvR1JFGGSAJsZDYHoR.jpg",
+      "https://image.tmdb.org/t/p/original/wKx7mmKJPEAV5bPiOEakoXVccmL.jpg"
+    ],
+    "isSubscriptionOrRent": "Prime",
+    "tags": []
+  },
+  "Captain Corelli's Mandolin": {
+    "title": "Captain Corelli's Mandolin",
+    "year": "2001",
+    "rated": "N/A",
+    "released": "Wed, 04/18/2001",
+    "runtime": "N/A",
+    "genre": [],
+    "director": "N/A",
+    "writer": "N/A",
+    "actors": [
+      "Patrick Malahide",
+      "Irene Papas",
+      "Sergio Albelli",
+      "Vincent Riotta",
+      "Salvatore Lazzaro",
+      "Christian Bale"
+    ],
+    "plot": "When a fisherman leaves to fight with the Greek army during World War II, his fiancée falls in love with the local Italian commander.",
+    "language": [
+      "en"
+    ],
+    "country": "",
+    "awards": "N/A",
+    "poster": "https://image.tmdb.org/t/p/original/dNNjMmZwQvq48Pw71BIzd8ky6Rh.jpg",
+    "metascore": "N/A",
+    "imdbRating": "5.9",
+    "imdbVotes": "480",
+    "imdbID": "",
+    "type": "movie",
+    "images": [
+      "https://image.tmdb.org/t/p/original/dNNjMmZwQvq48Pw71BIzd8ky6Rh.jpg",
+      "https://image.tmdb.org/t/p/original/bEyYqv75jnBfnrkMk2kZB64CFlA.jpg"
+    ],
+    "isSubscriptionOrRent": "Prime",
+    "tags": []
+  },
+  "Primal: Tales of Savagery": {
+    "title": "Primal: Tales of Savagery",
+    "year": "2019",
+    "rated": "N/A",
+    "released": "Thu, 11/21/2019",
+    "runtime": "N/A",
+    "genre": [],
+    "director": "N/A",
+    "writer": "N/A",
+    "actors": [
+      "Darrick Bachman",
+      "Aaron LaPlante",
+      "Jon Olson",
+      "Bryan Andrews"
+    ],
+    "plot": "Genndy Tartakovsky's Primal: Tales of Savagery features a caveman and a dinosaur on the brink of extinction. Bonded by tragedy, this unlikely friendship becomes the only hope of survival.",
+    "language": [
+      "en"
+    ],
+    "country": "",
+    "awards": "N/A",
+    "poster": "https://image.tmdb.org/t/p/original/9NBBkdxH0TjQEBSN2AzeE1sgsF9.jpg",
+    "metascore": "N/A",
+    "imdbRating": "8.4",
+    "imdbVotes": "288",
+    "imdbID": "",
+    "type": "movie",
+    "images": [
+      "https://image.tmdb.org/t/p/original/9NBBkdxH0TjQEBSN2AzeE1sgsF9.jpg",
+      "https://image.tmdb.org/t/p/original/uBZQOYZLIU9dBmd62fdzBAoropu.jpg"
+    ],
+    "isSubscriptionOrRent": "Prime",
+    "tags": []
+  },
+  "Wind Chill": {
+    "title": "Wind Chill",
+    "year": "2007",
+    "rated": "N/A",
+    "released": "Fri, 04/27/2007",
+    "runtime": "N/A",
+    "genre": [],
+    "director": "N/A",
+    "writer": "N/A",
+    "actors": [
+      "Chelan Simmons",
+      "Martin Donovan",
+      "Emily Blunt",
+      "Ashton Holmes",
+      "Ned Bellamy",
+      "Linden Banks"
+    ],
+    "plot": "Two college students share a ride home for the holidays. When they break down on a deserted stretch of road, they're preyed upon by the ghosts of people who have died there.",
+    "language": [
+      "en"
+    ],
+    "country": "",
+    "awards": "N/A",
+    "poster": "https://image.tmdb.org/t/p/original/dcic5m8ypA8RUaLlwaIsupPNfGd.jpg",
+    "metascore": "N/A",
+    "imdbRating": "5.8",
+    "imdbVotes": "408",
+    "imdbID": "",
+    "type": "movie",
+    "images": [
+      "https://image.tmdb.org/t/p/original/dcic5m8ypA8RUaLlwaIsupPNfGd.jpg",
+      "https://image.tmdb.org/t/p/original/wvgUIZ7azPKBnLLWPk41Qqu8ycZ.jpg"
+    ],
+    "isSubscriptionOrRent": "Prime",
+    "tags": []
+  },
+  "Open Season": {
+    "title": "Open Season",
+    "year": "2006",
+    "rated": "N/A",
+    "released": "Wed, 09/27/2006",
+    "runtime": "N/A",
+    "genre": [],
+    "director": "N/A",
+    "writer": "N/A",
+    "actors": [
+      "Gary Sinise",
+      "Georgia Engel",
+      "Debra Messing",
+      "Jack McGee",
+      "Jane Krakowski",
+      "Nika Futterman"
+    ],
+    "plot": "Boog, a domesticated 900lb. Grizzly bear finds himself stranded in the woods 3 days before Open Season. Forced to rely on Elliot, a fast-talking mule deer, the two form an unlikely friendship and must quickly rally other forest animals if they are to form a rag-tag army against the hunters.",
+    "language": [
+      "en"
+    ],
+    "country": "",
+    "awards": "N/A",
+    "poster": "https://image.tmdb.org/t/p/original/w5Lctmkc1yah215Luxmci4djaiW.jpg",
+    "metascore": "N/A",
+    "imdbRating": "6.1",
+    "imdbVotes": "2537",
+    "imdbID": "",
+    "type": "movie",
+    "images": [
+      "https://image.tmdb.org/t/p/original/w5Lctmkc1yah215Luxmci4djaiW.jpg",
+      "https://image.tmdb.org/t/p/original/nnMXaofDjdWszZ7rbN9hKwK2PNg.jpg"
+    ],
+    "isSubscriptionOrRent": "Prime",
+    "tags": []
+  },
+  "Village of the Damned": {
+    "title": "Village of the Damned",
+    "year": "1995",
+    "rated": "N/A",
+    "released": "Fri, 04/28/1995",
+    "runtime": "N/A",
+    "genre": [],
+    "director": "N/A",
+    "writer": "N/A",
+    "actors": [
+      "Thomas Dekker",
+      "Linda Kozlowski",
+      "Peter Jason",
+      "Lindsey Haun",
+      "Mark Hamill",
+      "Seth Meyers"
+    ],
+    "plot": "An American village is visited by some unknown life form which leaves the women of the village pregnant. Nine months later, the babies are born, and they all look normal, but it doesn't take the \"parents\" long to realize that the kids are not human or humane.",
+    "language": [
+      "en"
+    ],
+    "country": "",
+    "awards": "N/A",
+    "poster": "https://image.tmdb.org/t/p/original/70fg1uvZ4lyLpAHz44HPXCNpakW.jpg",
+    "metascore": "N/A",
+    "imdbRating": "6.1",
+    "imdbVotes": "742",
+    "imdbID": "",
+    "type": "movie",
+    "images": [
+      "https://image.tmdb.org/t/p/original/70fg1uvZ4lyLpAHz44HPXCNpakW.jpg",
+      "https://image.tmdb.org/t/p/original/r3XORFgCpGNZV6cf6aZIhOsUdpI.jpg"
+    ],
+    "isSubscriptionOrRent": "Prime",
+    "tags": []
+  },
+  "Mata Hari": {
+    "title": "Mata Hari",
+    "year": "1985",
+    "rated": "N/A",
+    "released": "Thu, 09/05/1985",
+    "runtime": "N/A",
+    "genre": [],
+    "director": "N/A",
+    "writer": "N/A",
+    "actors": [
+      "Vernon Dobtcheff",
+      "Oliver Tobias",
+      "Christopher Cazenove",
+      "Gottfried John",
+      "Tutte Lemkow",
+      "Gaye Brown"
+    ],
+    "plot": "Based loosely on the real-life story of the World War I spy. The exotic dancer uses her contacts in European high society, along with her seductive charm, to collect military secrets during the war. She successfully plays both sides against each other until at last her deceptions catch up with her.",
+    "language": [
+      "en"
+    ],
+    "country": "",
+    "awards": "N/A",
+    "poster": "https://image.tmdb.org/t/p/original/DbYXaFdFbkQBrhqzizsACn4lm6.jpg",
+    "metascore": "N/A",
+    "imdbRating": "3.7",
+    "imdbVotes": "33",
+    "imdbID": "",
+    "type": "movie",
+    "images": [
+      "https://image.tmdb.org/t/p/original/DbYXaFdFbkQBrhqzizsACn4lm6.jpg",
+      "https://image.tmdb.org/t/p/original/pWzHSUkBrFskIRiA0SNMEa0ZGpJ.jpg"
+    ],
+    "isSubscriptionOrRent": "Prime",
+    "tags": []
+  },
+  "A Haunted House": {
+    "title": "A Haunted House",
+    "year": "2013",
+    "rated": "N/A",
+    "released": "Fri, 01/11/2013",
+    "runtime": "N/A",
+    "genre": [],
+    "director": "N/A",
+    "writer": "N/A",
+    "actors": [
+      "David Koechner",
+      "Nick Swardson",
+      "Andrew Daly",
+      "Cedric the Entertainer",
+      "Marlene Forte",
+      "Jamie Noel"
+    ],
+    "plot": "Malcolm and Kisha move into their dream home, but soon learn a demon also resides there. When Kisha becomes possessed, Malcolm - determined to keep his sex life on track - turns to a priest, a psychic, and a team of ghost-busters for help in this spoof of all the \"found-footage/documentary style\" films released in recent years.",
+    "language": [
+      "en"
+    ],
+    "country": "",
+    "awards": "N/A",
+    "poster": "https://image.tmdb.org/t/p/original/skQt53YE2iyOftXj5afJkHmYxLW.jpg",
+    "metascore": "N/A",
+    "imdbRating": "5.9",
+    "imdbVotes": "1713",
+    "imdbID": "",
+    "type": "movie",
+    "images": [
+      "https://image.tmdb.org/t/p/original/skQt53YE2iyOftXj5afJkHmYxLW.jpg",
+      "https://image.tmdb.org/t/p/original/akKBMXHEesqfuoYFt7LaRptFAO0.jpg"
+    ],
+    "isSubscriptionOrRent": "Prime",
+    "tags": []
+  },
+  "The Island of Dr. Moreau": {
+    "title": "The Island of Dr. Moreau",
+    "year": "1996",
+    "rated": "N/A",
+    "released": "Fri, 08/23/1996",
+    "runtime": "N/A",
+    "genre": [],
+    "director": "N/A",
+    "writer": "N/A",
+    "actors": [
+      "Clare Grant",
+      "Marco Hofschneider",
+      "Val Kilmer",
+      "Ron Perlman",
+      "Frank Welker",
+      "David Thewlis"
+    ],
+    "plot": "A shipwrecked sailor stumbles upon a mysterious island and is shocked to discover that a brilliant scientist and his lab assistant have found a way to combine human and animal DNA—with horrific results.",
+    "language": [
+      "en"
+    ],
+    "country": "",
+    "awards": "N/A",
+    "poster": "https://image.tmdb.org/t/p/original/hOJeQXve8W9rNRhdgC1WV3GQJyA.jpg",
+    "metascore": "N/A",
+    "imdbRating": "4.9",
+    "imdbVotes": "478",
+    "imdbID": "",
+    "type": "movie",
+    "images": [
+      "https://image.tmdb.org/t/p/original/hOJeQXve8W9rNRhdgC1WV3GQJyA.jpg",
+      "https://image.tmdb.org/t/p/original/eOEd6qz2fezEAIB3qwo5zMBJDey.jpg"
+    ],
+    "isSubscriptionOrRent": "Prime",
+    "tags": []
+  },
+  "Star Trek II: The Wrath of Khan": {
+    "title": "Star Trek II: The Wrath of Khan",
+    "year": "1982",
+    "rated": "N/A",
+    "released": "Fri, 06/04/1982",
+    "runtime": "N/A",
+    "genre": [],
+    "director": "N/A",
+    "writer": "N/A",
+    "actors": [
+      "George Takei",
+      "Ricardo Montalban",
+      "Ike Eisenmann",
+      "Nichelle Nichols",
+      "Leonard Nimoy",
+      "Walter Koenig"
+    ],
+    "plot": "It is the 23rd century. The Federation Starship U.S.S. Enterprise is on routine training maneuvers and Admiral James T. Kirk seems resigned to the fact that this inspection may well be the last space mission of his career. But Khan is back. Aided by his exiled band of genetic supermen, Khan - brilliant renegade of 20th century Earth - has raided Space Station Regula One, stolen a top secret device called Project Genesis, wrested control of another Federation Starship and sets out in pursuit of the Enterprise, determined to let nothing stand in the way of his mission: kill Admiral Kirk... even if it means universal Armageddon.",
+    "language": [
+      "en"
+    ],
+    "country": "",
+    "awards": "N/A",
+    "poster": "https://image.tmdb.org/t/p/original/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg",
+    "metascore": "N/A",
+    "imdbRating": "7.5",
+    "imdbVotes": "1742",
+    "imdbID": "",
+    "type": "movie",
+    "images": [
+      "https://image.tmdb.org/t/p/original/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg",
+      "https://image.tmdb.org/t/p/original/oXs8kp1oX5N0Mte6U8UUAwmLwt6.jpg"
+    ],
+    "isSubscriptionOrRent": "Prime",
+    "tags": []
+  },
+  "After We Collided": {
+    "title": "After We Collided",
+    "year": "2020",
+    "rated": "N/A",
+    "released": "Wed, 09/02/2020",
+    "runtime": "N/A",
+    "genre": [],
+    "director": "N/A",
+    "writer": "N/A",
+    "actors": [
+      "Inanna Sarkis",
+      "Shane Paul McGhie",
+      "Josephine Langford",
+      "Khadijha Red Thunder",
+      "Charlie Weber",
+      "Samuel Larsen"
+    ],
+    "plot": "Tessa finds herself struggling with her complicated relationship with Hardin; she faces a dilemma that could change their lives forever.",
+    "language": [
+      "en"
+    ],
+    "country": "",
+    "awards": "N/A",
+    "poster": "https://image.tmdb.org/t/p/original/kiX7UYfOpYrMFSAGbI6j1pFkLzQ.jpg",
+    "metascore": "N/A",
+    "imdbRating": "7.2",
+    "imdbVotes": "5074",
+    "imdbID": "",
+    "type": "movie",
+    "images": [
+      "https://image.tmdb.org/t/p/original/kiX7UYfOpYrMFSAGbI6j1pFkLzQ.jpg",
+      "https://image.tmdb.org/t/p/original/6hgItrYQEG33y0I7yP2SRl2ei4w.jpg"
+    ],
+    "isSubscriptionOrRent": "Prime",
+    "tags": []
+  },
+  "American Psycho": {
+    "title": "American Psycho",
+    "year": "2000",
+    "rated": "N/A",
+    "released": "Thu, 04/13/2000",
+    "runtime": "N/A",
+    "genre": [],
+    "director": "N/A",
+    "writer": "N/A",
+    "actors": [
+      "Reg E. Cathey",
+      "Stephen Bogaert",
+      "Matt Ross",
+      "Cara Seymour",
+      "Blair Williams",
+      "Guinevere Turner"
+    ],
+    "plot": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
+    "language": [
+      "en"
+    ],
+    "country": "",
+    "awards": "N/A",
+    "poster": "https://image.tmdb.org/t/p/original/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+    "metascore": "N/A",
+    "imdbRating": "7.4",
+    "imdbVotes": "9849",
+    "imdbID": "",
+    "type": "movie",
+    "images": [
+      "https://image.tmdb.org/t/p/original/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+      "https://image.tmdb.org/t/p/original/bneUTWFAcVCdsb0O5UwZbJd8xqZ.jpg"
+    ],
+    "isSubscriptionOrRent": "Prime",
+    "tags": []
+  },
+  "Fifty Shades of Black": {
+    "title": "Fifty Shades of Black",
+    "year": "2016",
+    "rated": "N/A",
+    "released": "Thu, 01/28/2016",
+    "runtime": "N/A",
+    "genre": [],
+    "director": "N/A",
+    "writer": "N/A",
+    "actors": [
+      "Mircea Monroe",
+      "Florence Henderson",
+      "Kate Miner",
+      "Andrew Bachelor",
+      "Affion Crockett",
+      "Marlon Wayans"
+    ],
+    "plot": "An inexperienced college student meets a wealthy businessman whose sexual practices put a strain on their relationship.",
+    "language": [
+      "en"
+    ],
+    "country": "",
+    "awards": "N/A",
+    "poster": "https://image.tmdb.org/t/p/original/fYRiZ3vJuuCYb9H7HXfpjKO9Jd6.jpg",
+    "metascore": "N/A",
+    "imdbRating": "4.9",
+    "imdbVotes": "1264",
+    "imdbID": "",
+    "type": "movie",
+    "images": [
+      "https://image.tmdb.org/t/p/original/fYRiZ3vJuuCYb9H7HXfpjKO9Jd6.jpg",
+      "https://image.tmdb.org/t/p/original/quxidIBA4BNKRbk03JBRzu586Ep.jpg"
+    ],
+    "isSubscriptionOrRent": "Prime",
+    "tags": []
+  },
+  "Sonic the Hedgehog 3": {
+    "title": "Sonic the Hedgehog 3",
+    "year": "2024",
+    "rated": "N/A",
+    "released": "Wed, 12/18/2024",
+    "runtime": "N/A",
+    "genre": [],
+    "director": "N/A",
+    "writer": "N/A",
+    "actors": [
+      "Ben Schwartz",
+      "Colleen O'Shaughnessey",
+      "Idris Elba",
+      "James Marsden"
+    ],
+    "plot": "The third film in the \"Sonic the Hedgehog\" franchise.",
+    "language": [
+      "en"
+    ],
+    "country": "",
+    "awards": "N/A",
+    "poster": "https://image.tmdb.org/t/p/original/aNSBaYTgPz8QEADi3xiD52X4uVF.jpg",
+    "metascore": "N/A",
+    "imdbRating": "0",
+    "imdbVotes": "0",
+    "imdbID": "",
+    "type": "movie",
+    "images": [
+      "https://image.tmdb.org/t/p/original/aNSBaYTgPz8QEADi3xiD52X4uVF.jpg",
+      "https://image.tmdb.org/t/p/original/j0xO6355h5HfvC425sWDT6tiBZM.jpg"
+    ],
+    "isSubscriptionOrRent": "Prime",
+    "tags": []
+  },
+  "Breach": {
+    "title": "Breach",
+    "year": "2007",
+    "rated": "N/A",
+    "released": "Mon, 02/12/2007",
+    "runtime": "N/A",
+    "genre": [],
+    "director": "N/A",
+    "writer": "N/A",
+    "actors": [
+      "Mary Jo Deschanel",
+      "Reagan Pasternak",
+      "Catherine Burdon",
+      "Bruce Davison",
+      "Gary Cole",
+      "Laura Linney"
+    ],
+    "plot": "Eric O'Neill, a computer specialist who wants to be made an agent is assigned to clerk for Robert Hanssen, a senior agent with 25 years in the FBI, and to write down everything Hanssen does. O'Neill's told it's an investigation of Hanssen's sexual habits, however Hanssen is really suspected of spying for the Soviet Union and Russia for years and being responsible for the deaths of agents working for the United States.",
+    "language": [
+      "en"
+    ],
+    "country": "",
+    "awards": "N/A",
+    "poster": "https://image.tmdb.org/t/p/original/m2iVkJPxDrrink7NiE412nFBMQj.jpg",
+    "metascore": "N/A",
+    "imdbRating": "6.6",
+    "imdbVotes": "525",
+    "imdbID": "",
+    "type": "movie",
+    "images": [
+      "https://image.tmdb.org/t/p/original/m2iVkJPxDrrink7NiE412nFBMQj.jpg",
+      "https://image.tmdb.org/t/p/original/8WneCViPYXAcnJcJ2VZuAPPHQ5p.jpg"
+    ],
+    "isSubscriptionOrRent": "Prime",
+    "tags": []
+  },
+  "Kate & Leopold": {
+    "title": "Kate & Leopold",
+    "year": "2001",
+    "rated": "N/A",
+    "released": "Tue, 12/25/2001",
+    "runtime": "N/A",
+    "genre": [],
+    "director": "N/A",
+    "writer": "N/A",
+    "actors": [
+      "Shalom Harlow",
+      "John Rothman",
+      "Ebony Jo-Ann",
+      "Charlotte Ayanna",
+      "Hugh Jackman",
+      "Kevin Daniels"
+    ],
+    "plot": "When her scientist ex-boyfriend discovers a portal to travel through time -- and brings back a 19th-century nobleman named Leopold to prove it -- a skeptical Kate reluctantly takes responsibility for showing Leopold the 21st century. The more time Kate spends with Leopold, the harder she falls for him. But if he doesn't return to his own time, his absence will forever alter history.",
+    "language": [
+      "en"
+    ],
+    "country": "",
+    "awards": "N/A",
+    "poster": "https://image.tmdb.org/t/p/original/mUvikzKJJSg9khrVdxK8kg3TMHA.jpg",
+    "metascore": "N/A",
+    "imdbRating": "6.3",
+    "imdbVotes": "1234",
+    "imdbID": "",
+    "type": "movie",
+    "images": [
+      "https://image.tmdb.org/t/p/original/mUvikzKJJSg9khrVdxK8kg3TMHA.jpg",
+      "https://image.tmdb.org/t/p/original/tJLV3BAlHOgscVOrA99Wnb2gAef.jpg"
+    ],
+    "isSubscriptionOrRent": "Prime",
+    "tags": []
+  },
+  "The Good Neighbor": {
+    "title": "The Good Neighbor",
+    "year": "2022",
+    "rated": "N/A",
+    "released": "Fri, 06/17/2022",
+    "runtime": "N/A",
+    "genre": [],
+    "director": "N/A",
+    "writer": "N/A",
+    "actors": [
+      "Eloise Smyth",
+      "Agnese Budovska",
+      "Ieva Florence-Vīksne",
+      "Inga Alsiņa-Lasmane",
+      "Bruce Davison",
+      "Jonathan Rhys Meyers"
+    ],
+    "plot": "A nightmarish evening unfolds for David, a former New York Times journalist, when he and his strange new neighbor Robert, accidentally hit a girl on her bike. Buzzed and disoriented, David lets Robert convince him to flee the scene and leave the girl for dead, in order to protect his career. Robert shows no remorse, and in the name of friendship he does unspeakable things to protect the secret. Now that the police are full-on hunting for the hit-and-run killer, things begin to spiral out of control when David’s local newspaper sends him to cover the story where he meets the deceased girl’s sister Vanessa. Despite the circumstances, and her deep desire to find her sister’s killer, the two immediately have a romantic connection, which surprises and haunts David, while pushing Robert to take brutal steps to keep his new friend to himself.",
+    "language": [
+      "en"
+    ],
+    "country": "",
+    "awards": "N/A",
+    "poster": "https://image.tmdb.org/t/p/original/mXJ2xI7B0Z9WxDjyv18anPsOxeE.jpg",
+    "metascore": "N/A",
+    "imdbRating": "6.9",
+    "imdbVotes": "107",
+    "imdbID": "",
+    "type": "movie",
+    "images": [
+      "https://image.tmdb.org/t/p/original/mXJ2xI7B0Z9WxDjyv18anPsOxeE.jpg",
+      "https://image.tmdb.org/t/p/original/AnmfRV7X0kwEn96pg0lAVopV8YK.jpg"
+    ],
+    "isSubscriptionOrRent": "Prime",
+    "tags": []
+  },
+  "Directing Annabelle: Creation": {
+    "title": "Directing Annabelle: Creation",
+    "year": "2017",
+    "rated": "N/A",
+    "released": "Mon, 08/07/2017",
+    "runtime": "N/A",
+    "genre": [],
+    "director": "N/A",
+    "writer": "N/A",
+    "actors": [
+      "Talitha Bateman",
+      "David F. Sandberg",
+      "Miranda Otto",
+      "Lulu Wilson",
+      "Anthony LaPaglia",
+      "Stephanie Sigman"
+    ],
+    "plot": "Director David F. Sandberg takes you through the process behind making the 2017 horror film Annabelle Creation.",
+    "language": [
+      "en"
+    ],
+    "country": "",
+    "awards": "N/A",
+    "poster": "https://image.tmdb.org/t/p/original/rpAUIFPevxQkdqiSxGzVbXSo5N6.jpg",
+    "metascore": "N/A",
+    "imdbRating": "9",
+    "imdbVotes": "5",
+    "imdbID": "",
+    "type": "movie",
+    "images": [
+      "https://image.tmdb.org/t/p/original/rpAUIFPevxQkdqiSxGzVbXSo5N6.jpg",
+      "https://image.tmdb.org/t/p/original"
+    ],
+    "isSubscriptionOrRent": "Prime",
+    "tags": []
+  },
+  "Baby Boom": {
+    "title": "Baby Boom",
+    "year": "1987",
+    "rated": "N/A",
+    "released": "Wed, 10/07/1987",
+    "runtime": "N/A",
+    "genre": [],
+    "director": "N/A",
+    "writer": "N/A",
+    "actors": [
+      "Chris Noth",
+      "Victoria Jackson",
+      "Harold Ramis",
+      "Shera Danese",
+      "Pat Hingle",
+      "Mary Gross"
+    ],
+    "plot": "The life of super-yuppie J.C. is thrown into turmoil when she inherits a baby from a distant relative.",
+    "language": [
+      "en"
+    ],
+    "country": "",
+    "awards": "N/A",
+    "poster": "https://image.tmdb.org/t/p/original/4Jy5U4HITJWUDYJc1NGgJLIjbWz.jpg",
+    "metascore": "N/A",
+    "imdbRating": "6.4",
+    "imdbVotes": "334",
+    "imdbID": "",
+    "type": "movie",
+    "images": [
+      "https://image.tmdb.org/t/p/original/4Jy5U4HITJWUDYJc1NGgJLIjbWz.jpg",
+      "https://image.tmdb.org/t/p/original/v0negFRxnxLtanMNXY7HYP7RUZ6.jpg"
+    ],
+    "isSubscriptionOrRent": "Prime",
+    "tags": []
+  }
+}
