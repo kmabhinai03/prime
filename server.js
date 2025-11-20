@@ -94,9 +94,9 @@ const server = http.createServer((req, res) => {
   }
 
   if (pathname === "/posters" && req.method === "GET") {
-    return {
+    return sendJSON(res,200,{
       posters:["https://i.etsystatic.com/37166133/r/il/60f034/4087791906/il_570xN.4087791906_jcbj.jpg","https://m.media-amazon.com/images/I/81vRg6RVaFL.jpg","https://i.pinimg.com/236x/34/85/9d/34859df9133c707b96b4af2ce0478efa.jpg","https://creativereview.imgix.net/uploads/2023/12/Oppenheimer.jpg?auto=compress,format&crop=faces,entropy,edges&fit=crop&q=60&w=1263&h=2000"]
-    };
+    });
   }
 
   // support /movie/:title
